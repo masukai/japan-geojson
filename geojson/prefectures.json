@@ -14741,7 +14741,7 @@
           ]
         ]
       },
-      "properties": { "code": 111, "prefecture": "埼玉県" }
+      "properties": { "code": 11, "prefecture": "埼玉県" }
     },
     {
       "type": "Feature",
